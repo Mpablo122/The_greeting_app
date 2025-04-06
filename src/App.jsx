@@ -15,3 +15,5 @@ function App() {
 }
 
 export default App;
+
+// The App component serves as the main entry point for the application, rendering a welcome message, a greeting for the user, and a list of products with their names and prices. It imports the Greetings and Products components to display personalized greetings and product information.
