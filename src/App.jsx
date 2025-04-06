@@ -7,9 +7,9 @@ function App() {
       <h1>Welcome to Our Store</h1>
       <Greetings name="Jaquarius Fondingle" />
       <h2>Products</h2>
-        <Products name="Laptop" price="$999" />
-        <Products name="Smartphone" price="$499" />
-        <Products name="Headphones" price="$199" />
+        <Products name="IPhone 15" price="$999" />
+        <Products name="Sony headphones" price="$499" />
+        <Products name="Mechanical keyboard" price="$199" />
     </div>
   );
 }
